@@ -12,9 +12,9 @@ categorias = {
     "cervejas": "Cervejas",
     "CHOPPs": "Chopps",
     "kits_e_copos": "Kits e Copos",
-    "gourmet": "Gourmet",
+    "GOURMET": "Gourmet",
     "vinhos_espumantes": "Vinhos / Espumantes",
-    "destilados": "Destilados",
+    "DESTILADOS": "Destilados",
     "proximos_ao_vencimento": "Próximos ao Vencimento",
     "novidades_destaques": "Novidades / Destaques"
 }
