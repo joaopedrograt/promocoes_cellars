@@ -10,7 +10,7 @@ st.write("Selecione uma categoria para ver as promoções atuais:")
 # Dicionário com nomes de pastas e rótulos amigáveis
 categorias = {
     "cervejas": "Cervejas",
-    "chopps": "Chopps",
+    "CHOPPs": "Chopps",
     "kits_e_copos": "Kits e Copos",
     "gourmet": "Gourmet",
     "vinhos_espumantes": "Vinhos / Espumantes",
